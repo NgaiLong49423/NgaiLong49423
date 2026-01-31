@@ -33,6 +33,4 @@ Tôi hiện là sinh viên kì 3 tại **Đại học FPT**. Tôi có niềm đa
 [![trophy](https://github-profile-trophy.vercel.app/?username=NgaiLong49423&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
- Thiết kế Database cho hệ thống đặt vé phim (Dự án DBI202).
 
-📫 **Kết nối với tôi:** [LinkedIn](https://www.linkedin.com/search/results/all/?keywords=NgaiLong49423)
