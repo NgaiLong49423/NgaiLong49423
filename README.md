@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/type/waving&color=auto&height=200&section=header&text=Ngô%20Gia%20Long&fontSize=70)
+# Hi there, I'm Ngô Gia Long 👋
 
 ### 👨‍💻 Engineering Student | Aspiring AI Engineer
-Tôi hiện là sinh viên kì 3 tại **Đại học FPT**. Tôi có niềm đam mê lớn với lập trình, đặc biệt là mảng Trí tuệ nhân tạo (AI) và kiến trúc LLMs.
+Tôi hiện là sinh viên tại **Đại học FPT**. Tôi có niềm đam mê lớn với lập trình, đặc biệt là mảng Trí tuệ nhân tạo (AI) và kiến trúc LLMs.
 
 - 🎓 **Học vấn:** Chuyên ngành Kỹ thuật phần mềm tại FPT University.
 - 🛠️ **Dự án đang phát triển:**  Trợ lý AI cá nhân.
