@@ -1,0 +1,16 @@
+# Bỏ qua thư mục build của NetBeans
+build/
+dist/
+nbdist/
+
+# Bỏ qua cấu hình riêng của VS Code
+.vscode/
+
+
+# Bỏ qua các file rác của hệ điều hành
+Thumbs.db
+.DS_Store
+
+*.class
+# Snyk Security Extension - AI Rules (auto-generated)
+.github/instructions/snyk_rules.instructions.md

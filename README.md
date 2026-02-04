@@ -1,36 +1,42 @@
-# Hi there, I'm Ngô Gia Long 👋
+# Ngô Gia Long
 
-### 👨‍💻 Engineering Student | Aspiring AI Engineer
-Tôi hiện là sinh viên tại **Đại học FPT**. Tôi có niềm đam mê lớn với lập trình, đặc biệt là mảng Trí tuệ nhân tạo (AI) và kiến trúc LLMs.
+**Software Engineering Student @ FPT University** · **Aspiring AI Engineer**
 
-- 🎓 **Học vấn:** Chuyên ngành Kỹ thuật phần mềm tại FPT University.
-- 🛠️ **Dự án đang phát triển:**  Trợ lý AI cá nhân.
-- 🎯 **Mục tiêu:** Trở thành một AI Engineer chuyên nghiệp.
+Mình quan tâm đến việc xây dựng sản phẩm AI “end-to-end”: từ xử lý dữ liệu, mô hình/LLM, đến triển khai và vận hành.
 
----
-
-### 🚀 Tech Stack
-Để profile trông đẹp hơn, tôi sử dụng các badge (huy hiệu) thay cho văn bản thuần túy:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NgaiLong49423&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgaiLong49423&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" height="170px" />
-</p>
+- **Focus:** LLM applications · RAG · Prompting & evaluation · AI product engineering
+- **Currently building:** Personal AI Assistant (knowledge base + tooling)
+- **Goal:** Become a professional AI Engineer
 
 ---
 
-### 📊 GitHub Stats
-*Dưới đây là thống kê hoạt động của tôi (Nếu ảnh chưa hiện, hãy đợi vài phút để GitHub cập nhật cache):*
+## Tech
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NgaiLong49423&show_icons=true&theme=radical" alt="GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgaiLong49423&layout=compact&theme=radical" alt="Top Languages" height="170px" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111827)
+![LLMs](https://img.shields.io/badge/LLMs-111827)
+![RAG](https://img.shields.io/badge/RAG-111827)
 
 ---
 
-### 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=NgaiLong49423&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Contact
+
+- **Email:** :**********************
+- **LinkedIn:** [gia-long-ngô](https://www.linkedin.com/in/gia-long-ng%C3%B4-67435436b/)
 
 ---
+
+## GitHub
+
+[![GitHub](https://img.shields.io/badge/GitHub-NgaiLong49423-181717?logo=github&logoColor=white)](https://github.com/NgaiLong49423)
+[![Followers](https://img.shields.io/github/followers/NgaiLong49423?label=Followers&style=social)](https://github.com/NgaiLong49423?tab=followers)
+
+- Profile: [github.com/NgaiLong49423](https://github.com/NgaiLong49423)
+- Repositories: [All repositories](https://github.com/NgaiLong49423?tab=repositories)
 
