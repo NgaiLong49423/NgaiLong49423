@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Ngo+Gia+Long;AI+Engineer;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Ngo+Gia+Long;Software+Engineer;AI-Powered+Products" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,9 +17,9 @@
 ### 👨‍💻 About Me
 
 🎓 **Software Engineering Student** @ FPT University  
-🤖 **Aspiring AI Engineer** passionate about building end-to-end AI products  
-🚀 Currently building **Personal AI Assistant** with RAG & advanced tooling  
-💡 Focus: **LLM Applications** · **RAG Systems** · **AI Product Engineering**
+💼 **Software Engineer** passionate about building scalable, user-centric applications  
+🤖 **AI-Focused Developer** - Integrating AI into real-world products  
+💡 Focus: **Backend Development** · **AI Integration** · **Full-stack Solutions**
 
 </div>
 
@@ -49,8 +49,6 @@
 
 ### 📊 GitHub Statistics
 
-
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NgaiLong49423&theme=tokyonight" alt="GitHub Streak" />
 </div>
@@ -58,8 +56,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NgaiLong49423&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NgaiLong49423&theme=tokyo-night&custom_title=Contribution%20Graph" alt="Activity Graph" />
 </div>
+
 
 ---
 
@@ -68,28 +67,28 @@
 ### 🎯 Current Focus
 
 ```python
-class AIEngineer:
+class SoftwareEngineer:
     def __init__(self):
         self.name = "Ngo Gia Long"
-        self.role = "AI Engineer in Training"
+        self.role = "Software Engineer"
         self.education = "FPT University - Software Engineering"
         
     def current_projects(self):
         return [
-            "🤖 Personal AI Assistant with RAG",
-            "📚 Knowledge Base Management System",
-            "🔧 LLM Tool Integration Framework"
+            "🌐 Building scalable web applications",
+            "🤖 Integrating AI features into products",
+            "📱 Full-stack development with modern tech"
         ]
     
     def goals_2026(self):
         return [
-            "Master LLM application development",
-            "Build production-ready AI systems",
-            "Contribute to open-source AI projects"
+            "Master full-stack development",
+            "Build AI-powered features effectively",
+            "Ship high-quality production systems"
         ]
     
     def looking_for(self):
-        return "Deep knowledge in LLM systems & AI engineering"
+        return "Deep knowledge in software engineering & practical AI application"
 ```
 
 ---
@@ -98,7 +97,7 @@ class AIEngineer:
 
 <div align="center">
   
-  💼 Open to **AI Engineering Internships** and **Collaboration**  
+  💼 Open to **Software Engineering Opportunities** and **Collaboration**  
   📧 Reach me at: **********************  
   🔗 LinkedIn: [Gia Long Ngo](https://www.linkedin.com/in/gia-long-ngô-67435436b/)
   
