@@ -61,7 +61,13 @@
 
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ngailong49423&show_icons=true&theme=radical&hide_border=false" />
+</p>
+
+---
 
 
 ### 🎯 Current Focus
@@ -90,7 +96,11 @@ class SoftwareEngineer:
     def looking_for(self):
         return "Deep knowledge in software engineering & practical AI application"
 ```
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NgaiLong49423/NgaiLong49423/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
 
 ### 📫 Let's Connect!
