@@ -101,6 +101,7 @@ class SoftwareEngineer:
 <p align="center">
   <img src="https://raw.githubusercontent.com/NgaiLong49423/NgaiLong49423/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 ---
 
 ### 📫 Let's Connect!
