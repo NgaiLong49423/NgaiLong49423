@@ -97,7 +97,7 @@ public final class GiaLong {
     private final String focus = "Java Backend & AI Integration";
 
     private final String[] currentlyBuilding = {
-        "Mina AI Assistant",
+        "AI Assistant",
         "Java web applications",
         "Practical AI-powered features"
     };
